@@ -49,7 +49,7 @@ Take it if you want it.
 - [PSP Engine](https://github.com/robvagin/shar-psp-engine) · a native engine that runs a PS2 game on the PSP. Not an emulator
 - [PSP Menu Art](https://github.com/robvagin/psp-game-preview-crop) · menu artwork for a PSP game: crop, see it on the XMB, convert video and sound
 - [Bro Gamepad](https://github.com/robvagin/bro-gamepad) · a PS4 controller as an effects pad for Bitwig Studio
-- [Layer Type](https://github.com/robvagin/layer-type) · three letters, one 3D body: each side reads a different letter
+- [Layer Type](https://github.com/robvagin/layer-type) · type any three letters: one 3D body, each side reads a different one
 - [XYZ Cube](https://github.com/robvagin/xyz-cube) · your data as points in a 3D cube on axes you name
 - [Pack Label](https://github.com/robvagin/pack-label) · coffee bag labels, checked and ready for print
 - [Image Shuffler](https://github.com/robvagin/image-shuffler) · your screenshots flying in 3D, recorded as a video
